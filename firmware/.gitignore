@@ -1,0 +1,12 @@
+# Credenciales - NUNCA subir
+credentials.h
+
+# PlatformIO build artifacts
+.pio/
+
+# VSCode
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
